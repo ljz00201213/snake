@@ -1,0 +1,6 @@
+<res>
+   <item name="img/mask.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="img/s1-background.jpg" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="img/tile_map.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="img/control-flash.png" type="Button" compress="0" pack="0" quality="80" props="" picType="0"/>
+</res>
